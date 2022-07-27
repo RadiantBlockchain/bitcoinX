@@ -6,7 +6,7 @@
     :target: https://coveralls.io/github/kyuupichan/bitcoinX
 
 ========
-bitcoinX
+bitcoinX (radiantblockchain.og - RAD FORK)
 ========
 
 A Python Bitcoin library that will grow to encompass network protocol,
